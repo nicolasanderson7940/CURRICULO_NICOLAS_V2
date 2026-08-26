@@ -1,0 +1,67 @@
+.painel{
+
+    background-color: white;
+
+    margin-top: 20px;
+
+    padding: 20px;
+
+    border-radius: 12px;
+
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
+
+.painel h2{
+
+    margin-bottom: 12px;
+}
+
+
+.painel-verde{
+
+    background-color: lightgreen;
+
+    margin-top: 20px;
+
+    padding: 20px;
+
+    border-radius: 12px;
+
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+
+    border-left: 8px solid green;
+}
+
+.painel-verde h2{
+
+    margin-bottom: 12px;
+}
+
+
+
+.destaque{
+
+    background-color: white;
+
+    margin-top: 20px;
+
+    padding: 20px;
+
+    border-radius: 12px;
+
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+
+    border-left: 8px solid #4CAF50;
+}
+
+.destaque h2{
+
+    margin-bottom: 12px;
+}
+
+
+
+.conhecimento p{
+
+    margin-top: 8px;
+}
